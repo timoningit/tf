@@ -1,0 +1,11 @@
+#nombre{
+    font-weight: bold;
+    }
+#perflkdn{
+    /* position: absolute;*/
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    /*top: 1000px;*/
+    left: 20px;
+}

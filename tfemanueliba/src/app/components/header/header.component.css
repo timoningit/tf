@@ -1,8 +1,19 @@
 div{
     background-color: #ebe6e6;
+    max-height: 20%;
 }
 
-app-social{
-    float: right;
-    margin-top: 15px;
+.container-fluid{
+    margin: 0;
+    padding: 0;
+    border: 0;
 }
+
+.row{
+    padding: 0px;
+    margin: 0px;
+    border: 0;
+    max-height: 20%;
+}
+
+
