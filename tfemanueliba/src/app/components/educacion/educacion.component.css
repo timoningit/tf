@@ -1,0 +1,12 @@
+img{
+    width:35px;
+    height: 35px;
+}
+
+.row{
+    background-color: rgb(224, 255, 255);
+}
+
+h2,h3{
+    display: inline;
+}
