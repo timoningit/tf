@@ -1,6 +1,32 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.redes{
+    margin-right: 0.5em;
+}
+.redes img{
+    margin: 2px;
+}
 
-.img-fluid
-{
-    width: 200px;
+#aplogo{
+    width: 150px;
     height: 100px;
+}
+
+#Facebook{
+    width: 40px;
+}
+#Linkedin{
+    width: 40px;
+}
+#GitHub{
+    width: 40px;
+}
+.row{
+    background-color: rgb(138, 185, 185);
+}
+.btn{
+    border-width: medium;
 }

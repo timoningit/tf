@@ -1,14 +1,27 @@
 .row{
     background-color: rgb(186, 240, 233);
+    padding: 0px;
 }
 #nombre{
     font-weight: bold;
     }
 #perflkdn{
-    /* position: absolute;*/
-    width: 150px;
-    height: 150px;
-    border-radius: 100%;
-    /*top: 1000px;*/
+    width: 130px;
+    height: 140px;
+    border-radius: 50%;
     left: 20px;
 }
+#divprofile{
+padding-right: 0px;
+}
+
+#nombre{
+text-align: left;
+font-size: 25px;
+}
+
+#vocacion{
+text-align: left;
+font-size: 20px;
+}
+
